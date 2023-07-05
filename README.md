@@ -2,7 +2,7 @@
 
 FaceCrop is a simple command-line tool that automates the cropping of images based on face detection. It works by identifying the largest face (i.e., the face that's likely closest to the camera) in an image, adds a margin around it (which you can customize), and then crops the image to this area. This tool is ideal for quickly cropping batches of images for social media, user avatars, or AI training datasets.
 
-![Demo](before.jpg) ![After](after.jpg)
+![Demo](example.png)
 
 ## Dependencies
 
